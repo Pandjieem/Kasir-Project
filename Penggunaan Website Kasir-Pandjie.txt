@@ -1,0 +1,60 @@
+nama  : m.pandjie masnegoro
+kelas : xii rpl 1
+Penggunaan Website Kasir 
+
+
+
+Register untuk Membuat Akun Terlebih dahulu
+setelah register
+login ke user atau admin
+
+admin 
+username : admin
+password : admin#123
+
+user : dari data yang dibuat di register
+
+Login User :
+Setelah login pilih barang yang mau dibeli dan jumlah nya lalu lihat stok mencukupi atau tidak setelah berhasil
+di beli akan muncul pembelian berhasil dan total Harga produk
+
+lalu ke navbar status untuk melihat status pembelian usernya dari 
+
+Login Admin :
+Dashboard
+untuk melihat kenaikan Harga keuntungan berapa persen dan status dari produknya
+
+Status Pembelian
+Melihat status pembelian dari pelanggan yang membeli da keuntungan total yang didapat 
+
+Tambah Produk
+untuk menambahkan produk dan Harga keuntungan yang di tentukan 
+
+Tambah Stok 
+untuk menambahkan stok dari produk 
+
+Status Penjualan
+untuk melihat laporan keuntungan dari produk yang di beli oleh pelanggan secara detail 
+
+Kekurangan Website :
+Untuk tambah stok belum secara otomatis dari database namun setelah stok habis maka akan secara otomatis terisi 50 dari code buy.php baris 28 
+
+penggunaan user yang masih terbatas belum mempunyai gambar dari setiap produk dan halaman akses yang sedikit untuk user
+
+Kelebihan :
+Sudah ada kenaikan Harga keuntungan untuk setiap produk yang di tentukan
+
+sudah bisa melihat semua aktivitas user(setiap pembelian)
+
+sudah menggunakan fitur register dan login agar setiap user mempunyai akun yang berbeda sama status pembelian yang berbeda dan memiliki fitur password hash agar lebih aman 
+
+Tujuan pembuatan website kasir
+untuk memudahkan pembelian barang dan memilih barang yang diinginkan user
+
+
+Sekian tugas website dari saya. Pandjie
+
+
+
+
+ 
