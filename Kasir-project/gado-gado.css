@@ -1,0 +1,246 @@
+body {
+    font-family: 'Helvetica Neue', sans-serif;
+    background: url(mountain-4k.jpg) no-repeat center fixed;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+h1, h2, h3 {
+    color: #444;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+h2 {
+    text-transform: uppercase;
+}
+
+form {
+    margin: 20px auto;
+    width: 350px;
+    text-align: left;
+}
+
+#ngantuk{
+    text-align: center;
+    font-size: large;
+}
+
+input, select {
+    width: 100%;
+    padding: 12px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 1px solid #ffffff;
+    border-bottom: 1px solid;
+    background-color: #ffffff;
+    transition: background-color 0.3s ease;
+}
+
+input:focus, select:focus {
+    background-color: #f1f1f1;
+    border-radius: 4px 4px 0px 0px;
+    outline: none;
+}
+
+button {
+    padding: 12px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 100%;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #6a76c6;
+}
+
+table {
+    margin: 20px auto;
+    width: 90%;
+    border-collapse: collapse;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border: none;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+    background-color: #fff;
+}
+
+th {
+    background-color: #f4f4f4;
+    font-weight: bold;
+    color: #333;
+}
+
+tbody tr:hover {
+    background-color: #9a8686cf;
+}
+
+tbody tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+.wrapperrumah {
+    background-color: rgb(255, 255, 255);
+    width: 96%;
+    padding: 30px;
+    position: relative;
+    margin: 50px auto;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.navrumah {
+    text-decoration: none;
+    color: white;
+    background-color: #007bff;
+    padding: 10px 20px;
+    border-radius: 4px;
+    display: inline-block;
+    margin: 10px 5px;
+    transition: background-color 0.3s ease;
+}
+
+.navrumah:hover {
+    background-color: #0056b3;
+}
+
+.tombolpanji {
+    margin-top: 15px;
+    background-color: rgb(130, 130, 163);
+}
+
+.inputpanji {
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 40px;
+    width: 350px;
+    margin: 100px auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.icikiwir {
+    background-color: #007bff;
+    border: none;
+    padding: 12px;
+    color: white;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.icikiwir:hover {
+    background-color: #0d5db4;
+}
+
+#daftar-panji {
+    color: #007bff;
+    text-decoration: none;
+}
+
+#daftar-panji:hover {
+    text-decoration: underline;
+}
+
+#stokss {
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+.gatau {
+    background-color: #dc3545;
+    width: auto;
+    color: white;
+    padding: 10px;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+}
+
+.gatau:hover {
+    background-color: #c82333;
+}
+
+#panji{
+    font-weight: 800;
+    color: white;
+    text-align: center;
+}
+
+.header{
+    text-decoration: none;
+    color: black;
+    font-size: large;
+    padding: 20px;
+    position: relative;
+    top: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    
+    
+}
+
+.header:hover{
+    color: rgb(81, 76, 76);
+    transition: 0.5s;
+
+}
+
+.kembali{
+    width: 10px;
+    height: 10px;
+    border-radius: 50px;
+    background-color: white;
+}
+
+.kembali :focus{
+    transition: 1s;
+}
+
+#btnScrollToTop {
+    display: none; 
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    z-index: 1000;
+}
+
+#btnScrollToTop:hover {
+    background-color: #0056b3;
+}
+
+#tabelbody {
+    background-color: blue;
+}
+
+.tengahwir{
+    align-items: center;
+    position: absolute;
+    left: 44%;
+    top: 430px;
+}
+
+#berhasilbeli{
+    color: #9a8686cf;
+    font-size: large;
+    font-weight: 800;
+    position: absolute;
+    left: 33%;
+}
